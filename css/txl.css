@@ -1,0 +1,86 @@
+body{
+	margin: 0 0;
+}
+.a0{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+
+}
+.a0 img{
+	height: 100px;
+	
+}
+.a1{
+
+	
+	width: 33.33%;
+	height: 100px;
+	float: left;	
+	background-color: black;
+	border: none;
+	color: white;
+	font-size: 80PX;
+	text-align: center;
+}
+.head{
+	width: 100%;
+	height:150px;
+	background-color: black;
+}
+.h{
+		width: 33.33%;
+		height: 100px;
+		float: left;	
+		background-color: black;
+		border: none;
+		color: white;
+		font-size: 80PX;
+		text-align:left;
+}
+.head img{
+	height: 100px;
+	width: 100px;
+}
+.db{
+	width: 100%;
+	height:100px;
+	background-color:white;
+	text-align: center;
+	position: absolute;
+	bottom: 50px;
+}
+.db1{
+	width: 25%;
+	height:150px;
+	float: left;
+}
+.db1 input{
+	height: 150px;
+	}
+.top{
+	width: 100%;
+	height: 99px;
+	border: darkgray solid 1px;
+}
+.top1{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.top1 img{
+	width: 100px;
+	height: 100px;
+}
+.top2{
+	width: 880px;
+	height: 100px;
+	display:-webkit-flex;
+	flex-direction:column;
+	flex-wrap: wrap;
+	font-size: 60px;
+	
+}
+.zm{
+	font-size:30px;
+}

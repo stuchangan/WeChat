@@ -1,0 +1,126 @@
+body{
+	margin: 0 0;
+}
+.a0{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+
+}
+.a0 img{
+	height: 100px;
+	
+}
+.a1{
+
+	
+	width: 33.33%;
+	height: 100px;
+	float: left;	
+	background-color: black;
+	border: none;
+	color: white;
+	font-size: 80PX;
+	text-align: center;
+}
+.head{
+	width: 100%;
+	height:150px;
+	background-color: black;
+}
+.h{
+		width: 33.33%;
+		height: 100px;
+		float: left;	
+		background-color: black;
+		border: none;
+		color: white;
+		font-size: 80PX;
+		text-align:left;
+}
+.head img{
+	height: 100px;
+	width: 100px;
+}
+.db{
+	width: 100%;
+	height:100px;
+	background-color:white;
+	text-align: center;
+	position: absolute;
+	bottom: 50px;
+}
+.db1{
+	width: 25%;
+	height:150px;
+	float: left;
+}
+.db1 input{
+	height: 150px;
+	}
+.top0{
+		width: 100%;
+		height: 50px;
+		background-color:gainsboro;
+}
+.ms{
+	width: 100%;
+	height: 200px;
+	
+}
+.ms1{
+	width: 200px;
+	height: 200px;
+	float: left;
+}
+.ms1 img{
+	width: 200px;
+	height: 200px;
+}
+.ms2{
+	width: 780px;
+	height: 200px;
+	float: right;
+	text-align:left;
+	font-size: 50px;
+}
+.ms2 img{
+	width: 200px;
+	height: 200px;
+	
+}
+.top1{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.top1 img{
+	width: 100px;
+	height: 100px;
+}
+.top2{
+	width: 880px;
+	height: 100px;
+	display:-webkit-flex;
+	flex-direction:column;
+	flex-wrap: wrap;
+	font-size: 45px;
+	box-sizing:border-box;
+	
+	
+}
+.top2 span{
+	margin-top: 18px;
+	
+}
+.sy{
+	width: 100%;
+	height: 350px;
+	background-color: gainsboro
+}
+.fgx{
+	width: 100%;
+	height: 1px;
+	border:darkgray solid 1px;
+	background-color: darkgray;
+}

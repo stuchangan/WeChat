@@ -1,0 +1,124 @@
+body{
+	margin: 0 0;
+}
+.a0{
+	width: 100%;
+	height: 100px;
+	background-color: black;
+
+}
+.a0 img{
+	height: 100px;
+	
+}
+.a1{
+
+	
+	width: 33.33%;
+	height: 100px;
+	float: left;	
+	background-color: black;
+	border: none;
+	color: white;
+	font-size: 80PX;
+	text-align: center;
+}
+.head{
+	width: 100%;
+	height:150px;
+	background-color: black;
+}
+.h{
+		width: 50%;
+		height: 100px;
+		float: left;	
+		background-color: black;
+		border: none;
+		color: white;
+		font-size: 80PX;
+		text-align:left;
+}
+.head img{
+	height: 100px;
+	width: 100px;
+}
+.h input{
+	height: 100px;
+	width: 100px;
+}
+.bg img{
+	width: 100%;
+	height:450px;
+}
+.l1{
+	width: 100%;
+	height:100px;
+	background-color: white;
+}
+.l10{
+	width: 100px;
+	height: 100px;
+	float: left;
+}
+.l10 img{
+	width: 100px;
+	height: 100px;
+}
+.l11{
+	width: 880px;
+	height: 100px;
+	display:-webkit-flex;
+	flex-direction:column;
+	flex-wrap: wrap;
+}
+.l111{
+	font-size: 30px;
+	text-align:left;	
+	flex: 1;
+}
+.l1110{
+	color: green;
+	font-size: 30px;
+	font-weight: bold;
+}
+.l111{
+	flex: 1;
+}
+.dt{
+	width: 100%;
+	height: 500px;
+	
+}
+.dt1{
+	width: 100px;
+	height: 500px;
+	float: left;
+}
+.dt2{
+	width: 880px;
+	height: 500px;
+	float: right;
+}
+.dt2 img{
+	width: 300px;
+	height: 500px;
+}
+.pl{
+	width: 100%;
+	height: 50px;
+}
+.pl1{
+	width: 100px;
+	height: 50px;
+	float: left;
+}
+.pl2{
+	width: 880px;
+	height: 50px;
+	float: right;
+	font-size: 30px;
+}
+.pl2 img{
+	width: 100px;
+	height: 50px;
+}
